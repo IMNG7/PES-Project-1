@@ -1,0 +1,18 @@
+Input Number:cafe
+Number in Hex:cafe
+Condition 1: Original Number and 3 Out of last 4 bits are on
+
+ The Test Result is True
+ Number in Binary:0x1100101011111110
+Condition 2: Byte Reversal and 3 Out of last 4 bits are on
+Number in Hex:feca
+
+ The Test Result is False
+Condition 3: 4 bits to the left and 3 Out of last 4 bits are on
+Number in Hex:eca0
+
+ The Test Result is False
+Condition 4: 4 bits to the right and 3 Out of last 4 bits are on
+Number in Hex:ec
+
+ The Test Result is False

@@ -1,0 +1,41 @@
+
+Input  Value:-6 Radix:10 Operand Size:4
+Binary Number(absolute): 0x0110 	0x0111 		0x0000
+Decimal Number: 	 6  	 	7 	 	0
+Octal Number: 	 	 6 	 	7 	 	0
+Hexadecimal Number: 	 6 	 	7 	 	0
+Signed One's Complement: 0x0001 	0x0111 		0x1000
+Signed Two's Complement: 0x0010 	0x0111 		0x1000
+Sign-Magnitude: 	 0x1110 	0x0111 		0x1111
+Input  Radix:9
+ Invalid Radix Inserted
+Input  Value:-6 Radix:10 Operand Size:5
+ Invalid Operand Size
+Input  Value:-9 Radix:10 Operand Size:4
+ Input Number not within permissible Limits
+Input  Value:237 Radix:10 Operand Size:8
+ Input Number not within permissible Limits
+Input  Value:354 Radix:8 Operand Size:8
+ Input Number not within permissible Limits
+Input eb Radix:16 Operand Size:8
+ Input Number not within permissible Limits
+Input  Value:-125 Radix:10 Operand Size:8
+Binary Number(absolute): 0x01111101 	0x01111111 	0x00000000
+Decimal Number: 	 125  	 	127 	 	0
+Octal Number: 	 	 175 	 	177 	 	0
+Hexadecimal Number: 	 7d 	 	7f 	 	0
+Signed One's Complement: 0x00000010 	0x01111111 	0x10000000
+Signed Two's Complement: 0x00000011 	0x01111111 	0x10000000
+Sign-Magnitude: 	 0x11111101 	0x01111111 	0x11111111
+Input  Value:65400 Radix:10 Operand Size:8
+ Input Number not within permissible Limits
+Input  Value:65400 Radix:10 Operand Size:16
+ Input Number not within permissible Limits
+Input  Value:-32701 Radix:10 Operand Size:16
+Binary Number(absolute): 0x0111111110111101 	0x0111111111111111 	0x0x0000000000000000
+Decimal Number: 	 32701  	 	32767 	 	0
+Octal Number: 	 	 77675 	 	77777 	 	0
+Hexadecimal Number: 	 7fbd 	 	7fff 	 	0
+Signed One's Complement: 0x0000000001000010 	0x0111111111111111 	0x1000000000000000
+Signed Two's Complement: 0x0000000001000011 	0x0111111111111111 	0x1000000000000000
+Sign-Magnitude: 	 0x1111111110111101 	0x0111111111111111 	0x1111111111111111
